@@ -159,34 +159,34 @@ win2 = 0;
 //----------------------------------------------------------------------------
 if (tic_tac_toe[0][0] == 1 && tic_tac_toe[1][1] == 1 && tic_tac_toe[2][2] == 1)
 {
-win2 = 0;
+win1 = 0;
 }
 else if (tic_tac_toe[2][0] == 1 && tic_tac_toe[1][1] == 1 && tic_tac_toe[0][2] == 1)
 {
-win2 = 0;
+win1 = 0;
 }
 else if (tic_tac_toe[0][0] == 1 && tic_tac_toe[1][0] == 1 && tic_tac_toe[2][0] == 1)
 {
-win2 = 0;
+win1 = 0;
 }
 else if (tic_tac_toe[0][1] == 1 && tic_tac_toe[1][1] == 1 && tic_tac_toe[2][1] == 1)
 {
-win2 = 0;
+win1 = 0;
 }
 else if (tic_tac_toe[0][2] == 1 && tic_tac_toe[1][2] == 1 && tic_tac_toe[2][2] == 1)
 {
-win2 = 0;
+win1 = 0;
 }
 else if (tic_tac_toe[0][0] == 1 && tic_tac_toe[0][1] == 1 && tic_tac_toe[0][2] == 1)
 {
-win2 = 0;
+win1 = 0;
 }
 else if (tic_tac_toe[1][0] == 1 && tic_tac_toe[1][1] == 1 && tic_tac_toe[1][2] == 1)
 {
-win2 = 0;
+win1 = 0;
 }
 else if (tic_tac_toe[2][0] == 1 && tic_tac_toe[2][1] == 1 && tic_tac_toe[2][2] == 1)
 {
-win2 = 0;
+win1 = 0;
 }
 }
